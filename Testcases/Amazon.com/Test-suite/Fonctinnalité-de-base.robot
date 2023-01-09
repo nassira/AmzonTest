@@ -37,7 +37,7 @@ vérifie la Fonctionalité
     #ce partie la changer par rapport les produits va trouvé le correct keyword choix Ajouté à laCarte à(Static-Lapage-produit -> verify)
     Dynamic-Lapage-produit.Ajouté-à-laCarte
     Static-Lapage-produit.ProceedToCheckout
-    Static-Login.SignIn    sirafamilly@gmail.com    zina123456
+    Static-Login.SignIn    sirafamilly@gmail.com    123456
     Static-shippingAddress.Address
     ##Static-PaymentMethod.Creditards
     #Static-PaymentMethod.Select-Payment-Method-euro
